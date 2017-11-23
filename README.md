@@ -1,6 +1,6 @@
 # vue-jest
 
-> A Vue.js project
+> A Vue.js project with Jest as a testing tool.
 
 ## Build Setup
 
